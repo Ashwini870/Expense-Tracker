@@ -41,4 +41,4 @@ expense-tracker/
 
 ## Author
 
-Your Name
+Ashwini Kumar
